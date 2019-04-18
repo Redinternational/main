@@ -1,0 +1,15 @@
+﻿1С	КОГНОС
+Код	Code
+Наименование	Name
+ПометкаУдаления	v2
+СпособПризнанияРасходов	recognition_expenses
+ДатаНачалаСписания	writeoff_start
+ДатаОкончанияСписания	writeoff_end
+Сумма	total
+cfo_GUID	cfo_GUID
+cfo_org_GUID	cfo_org_GUID
+cfo_org_name	cfo_org_name
+stat_GUID	stat_GUID
+Выбытие	outflow
+ДатаВыбытия	outflow_date
+GUID	GUID
